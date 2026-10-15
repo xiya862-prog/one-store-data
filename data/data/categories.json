@@ -1,0 +1,91 @@
+
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "one-ui-9",
+      "name": "One UI 9",
+      "sortOrder": 1
+    },
+    {
+      "id": "one-ui-8-5",
+      "name": "One UI 8.5",
+      "sortOrder": 2
+    },
+    {
+      "id": "one-ui-8-0",
+      "name": "One UI 8.0",
+      "sortOrder": 3
+    },
+    {
+      "id": "systemui",
+      "name": "SystemUI",
+      "sortOrder": 4
+    },
+    {
+      "id": "rro",
+      "name": "RRO",
+      "sortOrder": 5
+    },
+    {
+      "id": "theme",
+      "name": "主题",
+      "sortOrder": 6
+    },
+    {
+      "id": "fonts",
+      "name": "字体",
+      "sortOrder": 7
+    },
+    {
+      "id": "modules",
+      "name": "模块",
+      "sortOrder": 8
+    },
+    {
+      "id": "lsposed",
+      "name": "LSPosed",
+      "sortOrder": 9
+    },
+    {
+      "id": "shizuku",
+      "name": "Shizuku",
+      "sortOrder": 10
+    },
+    {
+      "id": "root",
+      "name": "Root",
+      "sortOrder": 11
+    },
+    {
+      "id": "kernelsu",
+      "name": "KernelSU",
+      "sortOrder": 12
+    },
+    {
+      "id": "magisk",
+      "name": "Magisk",
+      "sortOrder": 13
+    },
+    {
+      "id": "dex",
+      "name": "DeX",
+      "sortOrder": 14
+    },
+    {
+      "id": "fold",
+      "name": "Fold",
+      "sortOrder": 15
+    },
+    {
+      "id": "watch",
+      "name": "Watch",
+      "sortOrder": 16
+    },
+    {
+      "id": "cve",
+      "name": "CVE",
+      "sortOrder": 17
+    }
+  ]
+}
